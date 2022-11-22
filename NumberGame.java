@@ -22,9 +22,9 @@ public class NumberGame {
             return false;
         } else {
             if (ans < que) {
-                System.out.println("The number is greater than" + ans);
+                System.out.println("The number is greater than " + ans);
             } else {
-                System.out.println("The number is less than" + ans);
+                System.out.println("The number is less than " + ans);
             }
             return true;
         }
